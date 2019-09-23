@@ -1,0 +1,11 @@
+swagger: '2.0'
+info:
+  version: "0.0.1"
+  title: Test
+  description: <a href='#' onclick='confirm(1)'>click</a>
+paths:
+  /:
+    get:
+      responses:
+        200:
+description: Successful response
